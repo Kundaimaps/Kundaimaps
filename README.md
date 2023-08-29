@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kundaimaps
-- 👀 I’m interested in Javascript, Html and PHP
-- 🌱 I’m currently learning html
+- 👀 I’m interested in   SQL, C, Python, PERL, Javascript, Html and PHP
+- 🌱 I’m currently studying software engineering with ALX
 - 💞️ I’m looking to collaborate on anything relavant
 - 📫 How to reach me admin@wondersolutions.co.za
 
